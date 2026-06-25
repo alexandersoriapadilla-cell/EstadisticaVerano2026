@@ -6,6 +6,7 @@ The Student Performance Dataset is designed to examine the factors that influenc
 
 The dataset can be used for exploratory data analysis, statistical studies, and machine learning applications to better understand how different factors contribute to academic success.
 
+
 ---
 
 ## Variables
